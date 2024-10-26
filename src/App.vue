@@ -11,7 +11,7 @@ import PocketBase from 'pocketbase';
 
  
  <button class= "bg-pink-300 text-white rounded border-zinc-600 border-2 active:bg-violet-700 px-2"@click = "submit">Subscribe</button>
- button class= "bg-pink-300 text-white rounded border-zinc-600 border-2 active:bg-violet-700 px-2"@click = "submit">Subscribe</button>
+<button class= "bg-pink-300 text-white rounded border-zinc-600 border-2 active:bg-violet-700 px-2"@click = "submit">Subscribe</button>
 
 </template>
 
