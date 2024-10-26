@@ -1,0 +1,24 @@
+<div>
+    <p> Hiiiiiiii</p>
+
+    <p>{{ count }}</p>
+
+
+
+    <button id="button"> button 1 </button>
+    <button id="button"> button 2 </button>
+    <button id="button"> button 3 </button>
+
+    <a href="https://letmegooglethat.com/?q=where+am+I"> Help </a>
+
+    <a href="https://vite.dev" target="_blank">
+      <img src="/vite.svg" class="logo" alt="Vite logo" />
+    </a>
+
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+    </a>
+
+  </div>
+  
+  <HelloWorld msg="what's up" />
